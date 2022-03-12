@@ -4,7 +4,7 @@
 - Isolation
 - Durability
 
-Categories of SQL Commands
+# Categories of SQL Commands
 - (DDL) e.g. ``` create```, ``` alter```, ```drop```
 - (DML) e.g. ``` insert```, ```update```, ```delete```
 - (DQL) e.g. ``` select```
